@@ -1,7 +1,7 @@
 package es.studium.GitHubPrueba;
 
 public class GitHubPrueba{
-//Prueba de modificacion online
+//Prueba de modificacion onlined
 	String matricula ;
 	int cilindrada ;
 	public GitHubPrueba() {
